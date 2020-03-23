@@ -1,0 +1,445 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-03-07 16:07+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+msgid "Duplicant"
+msgstr "Duplikant"
+
+msgid "Puft"
+msgstr "Pufft"
+
+msgid "Shine Bug"
+msgstr "Ljusfluga"
+
+msgid "Bedside Manner"
+msgstr "Patientbemötande"
+
+# Indefinite plural of Duplicant
+msgid "Duplicants"
+msgstr "Duplikanter"
+
+msgid "Hot Tub"
+msgstr "Spabad"
+
+msgid "the Hot Tub"
+msgstr "Spabadet"
+
+msgid "Fruity juice"
+msgstr "Fruktjuice"
+
+msgid "Tepidizers"
+msgstr "Förljummare"
+
+msgid "automation signal"
+msgstr "automationssignal"
+
+msgid "internal Memory"
+msgstr "Internminne"
+
+msgid "Logic ribbon"
+msgstr "Logikband"
+
+msgid "Automation Wire"
+msgstr "Automationskabel"
+
+msgid "Ribbon Writer"
+msgstr "Bandskrivare"
+
+msgid "Ribbon Reader"
+msgstr "Bandläsare"
+
+msgid "Automation Ribbon"
+msgstr "Automationsband"
+
+msgid "Great Monument"
+msgstr "Stort Monument"
+
+msgid "Skill Point"
+msgstr "Färdighetspoäng"
+
+msgid "Rock Crusher"
+msgstr "Stenkross"
+
+msgid "skills board"
+msgstr "kunskapstavla"
+
+msgid "Thimble Reed"
+msgstr "Ullkaveldun"
+
+msgid "Bunker Door"
+msgstr "Bunkerdörr"
+
+msgid "Printing Pod"
+msgstr "Utskriftskapseln"
+
+msgid "Abyss Bug"
+msgstr "Abyssfluga"
+
+msgid "Azure Bug"
+msgstr "Azurfluga"
+
+msgid "Coral Bug"
+msgstr "Korallfluga"
+
+msgid "Radiant Bug"
+msgstr "Strålfluga"
+
+msgid "Royal Bug"
+msgstr "Purpurfluga"
+
+msgid "Shine Bug"
+msgstr "Ljusfluga"
+
+msgid "Sun Bug"
+msgstr "Solfluga"
+
+msgid "Drecko"
+msgstr "Drecko"
+
+msgid "Glossy Drecko"
+msgstr "Blank Drecko"
+
+msgid "Gassy Moo"
+msgstr "Gasig Muu"
+
+msgid "Hatch"
+msgstr "Klaff"
+
+msgid "Sage Hatch"
+msgstr "Örtklaff"
+
+msgid "Smooth Hatch"
+msgstr "Slätklaff"
+
+msgid "Stone Hatch"
+msgstr "Stenklaff"
+
+msgid "Slickster"
+msgstr "Glatting"
+
+msgid "Longhair Slickster"
+msgstr "Långhårig Glatting"
+
+msgid "Molten Slickster"
+msgstr "Smulten Glatting"
+
+msgid "Morb"
+msgstr "Morb"
+
+msgid "Pacu"
+msgstr "Pacu"
+
+msgid "Gulp Fish"
+msgstr "Klunkfisk"
+
+msgid "Tropical Pacu"
+msgstr "Tropisk Pacu"
+
+msgid "Puft"
+msgstr "Pufft"
+
+msgid "Puft Prince"
+msgstr "Pufftprins"
+
+msgid "Squeaky Puft"
+msgstr "Pipig Pufft"
+
+msgid "Dense Puft"
+msgstr "Tät Pufft"
+
+msgid "Shove Vole"
+msgstr "Gnavare"
+
+msgid "Abyss Nymph Egg"
+msgstr "Abyssnymfsägg"
+
+msgid "Azure Nymph Egg"
+msgstr "Azurnymfsägg"
+
+msgid "Coral Nymph Egg"
+msgstr "Korallnymfsägg"
+
+msgid "Radiant Nymph Egg"
+msgstr "Strålnymfsägg"
+
+msgid "Royal Nymph Egg"
+msgstr "Purpurnymfsägg"
+
+msgid "Shine Nymph Egg"
+msgstr "Ljusnymfsägg"
+
+msgid "Sun Nymph Egg"
+msgstr "Solnymfsägg"
+
+msgid "Drecklet Egg"
+msgstr "Drecklingsägg"
+
+msgid "Glossy Drecklet Egg"
+msgstr "Blank Drecklingsägg"
+
+msgid "Hatchling Egg"
+msgstr "Klafflingsägg"
+
+msgid "Sage Hatchling Egg"
+msgstr "Örtklafflingsägg"
+
+msgid "Smooth Hatchling Egg"
+msgstr "Slätklafflingsägg"
+
+msgid "Stone Hatchling Egg"
+msgstr "Stenklafflingsägg"
+
+msgid "Larva Egg"
+msgstr "Larv-ägg"
+
+msgid "Longhair Larva Egg"
+msgstr "Långhårig Larv-ägg"
+
+msgid "Molten Larva Egg"
+msgstr "Smulten Larv-Ägg"
+
+msgid "Fry Egg"
+msgstr "Yngelrom"
+
+msgid "Gulp Fry Egg"
+msgstr "Klunkyngelrom"
+
+msgid "Tropical Fry Egg"
+msgstr "Tropiskt Yngelrom"
+
+msgid "Puftlet Egg"
+msgstr "Pufftlingsägg"
+
+msgid "Puftlet Prince Egg"
+msgstr "Pufftlingsprinsägg"
+
+msgid "Squeaky Puftlet Egg"
+msgstr "Pipig Pufftlingsägg"
+
+msgid "Dense Puftlet Egg"
+msgstr "Tät Pufftlingsägg"
+
+msgid "Vole Pup"
+msgstr "Gnavarvalp"
+
+msgid "Gas Grass"
+msgstr "Gasgräs"
+
+msgid "Sleet Wheat"
+msgstr "Slaskax"
+
+msgid "Pincha Pepperplant"
+msgstr "Kryddnypa"
+
+msgid "Balm Lily"
+msgstr "Balsamlilja"
+
+msgid "Dusk Cap"
+msgstr "Dunkelhatt"
+
+msgid "Bristle Blossom"
+msgstr "Skäggblom"
+
+msgid "Buried Muckroot"
+msgstr "Dyngrot"
+
+msgid "Wheezewort"
+msgstr "Flåsört"
+
+msgid "Thimble Reed"
+msgstr "Ullkaveldun"
+
+msgid "Jumping Joya"
+msgstr "Hoppande Hoya"
+
+msgid "Buddy Bud"
+msgstr "Kompisknopp"
+
+msgid "Mirth Leaf"
+msgstr "Lyckolöv"
+
+msgid "Bluff Briar"
+msgstr "Klippljung"
+
+msgid "Mealwood"
+msgstr "Mjölträd"
+
+msgid "Avari Vine"
+msgstr "Avariranka"
+
+msgid "Sporchid"
+msgstr "Sporkidé"
+
+msgid "Gas Grass seed"
+msgstr "Gasgräsfrö"
+
+msgid "Sleet Wheat Grain"
+msgstr "Slaskaxkorn"
+
+msgid "Pincha Pepperplant seed"
+msgstr "Kryddnypsfrö"
+
+msgid "Balm Lily seed"
+msgstr "Balsamliljefrö"
+
+msgid "Dusk Cap seed"
+msgstr "Dunkelhattsfrö"
+
+msgid "Bristle Blossom seed"
+msgstr "Skäggblomsfrö"
+
+msgid "Muckroot"
+msgstr "Dyngrot"
+
+msgid "Wheezewort seed"
+msgstr "Flåsörtsfrö"
+
+msgid "Thimble Reed seed"
+msgstr "Ullkaveldunsfrö"
+
+msgid "Jumping Joya seed"
+msgstr "Hoppande Hoyafrö"
+
+msgid "Buddy Bud seed"
+msgstr "Kompisknoppsfrö"
+
+msgid "Mirth Leaf seed"
+msgstr "Lyckolövsfrö"
+
+msgid "Bluff Briar seed"
+msgstr "Klippljungsfrö"
+
+msgid "Mealwood seed"
+msgstr "Mjölträdsfrö"
+
+msgid "Gas Grass"
+msgstr "Gasgräs"
+
+msgid "Sleet Wheat Grain"
+msgstr "Slaskaxkorn"
+
+msgid "Pincha Peppernut"
+msgstr "Kryddnypsnöt"
+
+msgid "Balm Lily Flower"
+msgstr "Balsamliljeblomma"
+
+msgid "Mushroom"
+msgstr "Svamp"
+
+msgid "Bristle Berry"
+msgstr "Skäggbär"
+
+msgid "Reed Fiber"
+msgstr "Gräsfibrer"
+
+msgid "Meal Lice"
+msgstr "Mjöllöss"
+
+msgid "Ethanol Distiller"
+msgstr "Etanol­destillator"
+
+msgid "Ethanol"
+msgstr "Etanol"
+
+msgid "fish release"
+msgstr "fiskfriare"
+
+msgid "Aero pots"
+msgstr "Aerokrukor"
+
+msgid "Hydrogen generator"
+msgstr "Vätgaskraftverk"
+
+msgid "Hydroponic farm"
+msgstr "Hydroponisk odlingslott"
+
+msgid "Jet Suit Docks"
+msgstr "Jetdräcktsdockor"
+
+msgid "Juicer"
+msgstr "Saftpress"
+
+msgid "Pitcher pumps"
+msgstr "Flaskpumpar"
+
+msgid "Critters"
+msgstr "Djur"
+
+msgid "Duplicant Motion Sensor"
+msgstr "Duplikant-Rörelsesensor"
+
+msgid "Signal Switch"
+msgstr "Signalbrytare"
+
+msgid "Cycle Sensor"
+msgstr "Cykelsensor"
+
+msgid "Oxygen Diffuser"
+msgstr "Syrespridare"
+
+msgid "Nuclear Reactor"
+msgstr "Kärnreaktor"
+
+msgid "Pixel Pack"
+msgstr "Pixelpaket"
+
+msgid "Rust Deoxidizer"
+msgstr "Rostavoxiderare"
+
+msgid "Dreckos"
+msgstr "Dreckor"
+
+msgid "Waterweed"
+msgstr "Vattenpest"
+
+msgid "Pokeshell"
+msgstr "Sköldpet"
+
+msgid "Pokeshells"
+msgstr "Sköldpetrar"
+
+msgid "Nosh Sprout"
+msgstr "Noshskott"
+
+msgid "Nosh Beans"
+msgstr "Noshbönor"
+
+msgid "Pokeshell Spawn"
+msgstr "Sköldpetunge"
+
+msgid "Pinch Roe"
+msgstr "Kniprom"
+
+msgid "Hexalent"
+msgstr "Hexalent"
+
+msgid "Oxyfern"
+msgstr "Syrbunke"
+
+msgid "Dasha Saltvine"
+msgstr "Nypa Saltranka"
+
+msgid "Arbor Tree"
+msgstr "Dungträd"
+
+msgid "Arbor Acorn"
+msgstr "Dungollon"
+
+msgid "Pipsqueak"
+msgstr "Pipvasker"
+
+msgid "Lure"
+msgstr "Lockbete"
+
+msgid "peers"
+msgstr "likar"
